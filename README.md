@@ -10,3 +10,8 @@ Analisis filogenetico de la rabia
   - Lyssavirus Bat.fasta
   - Lyssavirus Human-Bat.fasta
   - Lyssavirus Human.fasta
+
+### Programas utilizados
+  - R
+  - MEGA (Molecular Evolutionary Genetics Analysis)
+    
